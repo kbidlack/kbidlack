@@ -9,5 +9,4 @@ I write code sometimes, mostly in Python and Rust.
 - [OpenQudit](https://github.com/OpenQudit/OpenQudit)
 
 **I built & maintain:**
-- [Proxhy](https://github.com/proxhyhq/proxhy)
-  - [pyroh](https://github.com/kbidlack/pyroh), [petty](https://github.com/proxhyhq/proxhy/tree/main/petty), [compass](https://github.com/proxhyhq/proxhy/tree/main/compass), etc.
+- [Proxhy](https://github.com/proxhyhq/proxhy) and [its supporting libraries](https://github.com/proxhyhq/proxhy#libraries)
